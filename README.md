@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is Bailey Jørgensen. Collections Manager at the Alf Museum of Paleontology and current Master of Enviornmental Data Science student at the Bren School. Let's code!
+My name is Bailey Jørgensen. Collections and Data Manager at the Alf Museum of Paleontology and recent Bren School graduate of Master of Enviornmental Data Science. Let's code!
 <!--
 **jorb1/jorb1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
