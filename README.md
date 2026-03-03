@@ -5,7 +5,7 @@ My name is Bailey Jørgensen. Let's code!
 - ⚡ My current role: Collections and Data Manager at the Alf Museum of Paleontology
 - 🔭 I'm currently working on: Using geospatial analysis to monitor erosion patterns at fossiliferous sites
 - 🌱 I’m currently learning: Docker
-- 📫 How to reach me: Check my personal website at jorb1.github.io
+- 📫 How to reach me: Check my personal website at [jorb1.github.io](jorb1.github.io)
 <!--
 **jorb1/jorb1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
