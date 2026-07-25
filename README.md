@@ -2,7 +2,7 @@
 
 My name is Bailey Jørgensen. Let's code!
 
-- ⚡ Day job: Collections and Data Manager at the Alf Museum of Paleontology
+- ⚡ Day job: Collections and Data Manager at the [Alf Museum of Paleontology](alfmuseum.org)
 - 🔭 Contract: Data and Network Engineer on board the [Okeanos Explorer](https://oceanexplorer.noaa.gov/okeanos/) through the [Inner Space Center](https://web.uri.edu/isc/)
 - 📫 How to reach me: Check my personal website at [baileyjorgensen.com](https://www.baileyjorgensen.com/)
 <!--
